@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Math Evaluator",
+    "imageSrc": "projects/mathjse.png",
+    "description": "This is a simple web application for evaluating mathematical expressions and fetching interesting facts about the result.",
+    "skills": ["HTML", "JavaScript", "CSS"],
+    "source": "https://github.com/07Shivamsahu/MathEvaluator"
+  },
+  {
+    "title": "Hotel Booking Application",
+    "imageSrc": "projects/hotel1.png",
+    "description": "Experience seamless accommodation planning with our intuitive hotel booking application, offering a myriad of options tailored to suit every traveler's needs",
+    "skills": ["React", "Java"],
+    "source": "https://github.com/07Shivamsahu/Hotel_booking_web_application"
+  },
+  {
+    "title": "Java To-Do list Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the Spring boot with and make API to work.",
+    "skills": ["Java", "Spring Boot", "RestAPI"],
+    "source": "https://github.com/07Shivamsahu/Java-To-Do-list-Application"
+  }
+]
